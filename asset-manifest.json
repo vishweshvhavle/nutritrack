@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nutritrack/static/css/main.e1e4d983.css",
-    "main.js": "/nutritrack/static/js/main.e813e7d2.js",
+    "main.js": "/nutritrack/static/js/main.6324bb10.js",
     "static/js/453.4e37dad5.chunk.js": "/nutritrack/static/js/453.4e37dad5.chunk.js",
     "index.html": "/nutritrack/index.html",
     "main.e1e4d983.css.map": "/nutritrack/static/css/main.e1e4d983.css.map",
-    "main.e813e7d2.js.map": "/nutritrack/static/js/main.e813e7d2.js.map",
+    "main.6324bb10.js.map": "/nutritrack/static/js/main.6324bb10.js.map",
     "453.4e37dad5.chunk.js.map": "/nutritrack/static/js/453.4e37dad5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1e4d983.css",
-    "static/js/main.e813e7d2.js"
+    "static/js/main.6324bb10.js"
   ]
 }
